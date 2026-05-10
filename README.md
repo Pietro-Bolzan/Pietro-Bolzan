@@ -8,7 +8,7 @@ Desenvolvedor Full-Stack na **Tchê Turbo Internet Provider** | Graduando em Sis
 
 ## Contato
 
-<p align="left" style="display: flex; gap: 30px; flex-wrap: wrap;">
+<p align="left">
     <a href="https://www.instagram.com/pietrotbolzan/">
         <img 
             alt="Instagram" 
@@ -16,6 +16,7 @@ Desenvolvedor Full-Stack na **Tchê Turbo Internet Provider** | Graduando em Sis
             src="https://custom-icon-badges.demolab.com/badge/Instagram-%40pietrotbolzan-E4405F?logo=instagram&logoColor=white&style=for-the-badge" 
         />
     </a>
+    &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/pietro-tamiozzo-bolzan-41791b271/">
         <img 
             alt="LinkedIn" 
@@ -23,6 +24,7 @@ Desenvolvedor Full-Stack na **Tchê Turbo Internet Provider** | Graduando em Sis
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Pietro%20Bolzan-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" 
         />
     </a>
+    &nbsp;&nbsp;
     <a href="mailto:pibolzan@gmail.com">
         <img 
             alt="Email" 
@@ -31,6 +33,7 @@ Desenvolvedor Full-Stack na **Tchê Turbo Internet Provider** | Graduando em Sis
         />
     </a>
 </p>
+
 ---
 
 ## Tecnologias e Linguagens
