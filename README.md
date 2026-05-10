@@ -6,7 +6,7 @@ Desenvolvedor Full-Stack na **Tchê Turbo Internet Provider** | Graduando em Sis
 
 ---
 
-## 📱 Conecte-se comigo
+## Contato
 
 <p align="left">
     <a href="https://www.instagram.com/pietrotbolzan/">
@@ -34,7 +34,7 @@ Desenvolvedor Full-Stack na **Tchê Turbo Internet Provider** | Graduando em Sis
 
 ---
 
-## 🛠️ Tecnologias e Linguagens
+## Tecnologias e Linguagens
 
 <p align="left">
     <img 
@@ -83,7 +83,7 @@ Desenvolvedor Full-Stack na **Tchê Turbo Internet Provider** | Graduando em Sis
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
 <p>
     <a href="https://github.com/Pietro-Bolzan/projeto-full">
@@ -114,7 +114,7 @@ Desenvolvedor Full-Stack na **Tchê Turbo Internet Provider** | Graduando em Sis
 
 ---
 
-## 📊 Estatísticas
+## Estatísticas
 
 <p>
     <img 
@@ -133,5 +133,5 @@ Desenvolvedor Full-Stack na **Tchê Turbo Internet Provider** | Graduando em Sis
 ---
 
 <p align="center">
-    Feito com ❤️ por Pietro Bolzan
+   Por Pietro Tamiozzo Bolzan
 </p>
