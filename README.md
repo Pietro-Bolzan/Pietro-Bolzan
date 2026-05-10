@@ -82,7 +82,3 @@ Desenvolvedor Full-Stack na **Tchê Turbo Internet Provider** | Graduando em Sis
 </p>
 
 ---
-
-<p align="center">
-   Por Pietro Tamiozzo Bolzan
-</p>
