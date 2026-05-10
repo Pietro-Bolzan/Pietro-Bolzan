@@ -1,4 +1,4 @@
-# 👋 Pietro Tamiozzo Bolzan
+# Pietro Tamiozzo Bolzan
 
 **`Desenvolvedor Full-Stack`**
 
