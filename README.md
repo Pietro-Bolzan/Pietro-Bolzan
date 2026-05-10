@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Desenvolvedor Full-Stack na **Tchê Turbo Internet Provider** | Graduando em Sistemas de Informação na **UFSM-FW**. Apaixonado por criar soluções inovadoras e escaláveis.
+Desenvolvedor Full-Stack na **Tchê Turbo Internet Provider** | Graduando em Sistemas de Informação na **UFSM-FW**
 
 ---
 
