@@ -8,25 +8,10 @@ Desenvolvedor Full-Stack na **Tchê Turbo Internet Provider** | Graduando em Sis
 
 ## Contato
 
-<p align="left">
-    <a href="https://www.instagram.com/pietrotbolzan/">
-        <img alt="Instagram" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-%40pietrotbolzan-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
-    </a>
-</p>
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/pietro-tamiozzo-bolzan-41791b271/">
-        <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Pietro%20Bolzan-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
-    </a>
-</p>
-
-<p align="left">
-    <a href="mailto:pibolzan@gmail.com">
-        <img alt="Email" title="Envie um email" src="https://custom-icon-badges.demolab.com/badge/Email-pibolzan%40gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge" />
-    </a>
-</p>
-
----
+| | |
+|---|---|
+| <a href="https://www.instagram.com/pietrotbolzan/"><img alt="Instagram" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-%40pietrotbolzan-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a> | <a href="https://www.linkedin.com/in/pietro-tamiozzo-bolzan-41791b271/"><img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Pietro%20Bolzan-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a> |
+| <a href="mailto:pibolzan@gmail.com"><img alt="Email" title="Envie um email" src="https://custom-icon-badges.demolab.com/badge/Email-pibolzan%40gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a> | |---
 
 ## Tecnologias e Linguagens
 
