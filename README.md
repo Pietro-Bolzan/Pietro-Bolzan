@@ -8,7 +8,7 @@ Desenvolvedor Full-Stack na **Tchê Turbo Internet Provider** | Graduando em Sis
 
 ## Contato
 
-<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
+<p align="left" style="display: flex; gap: 40px; flex-wrap: wrap;">
     <a href="https://www.instagram.com/pietrotbolzan/">
         <img 
             alt="Instagram" 
